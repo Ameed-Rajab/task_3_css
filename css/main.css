@@ -1,0 +1,82 @@
+.container{
+    margin-left : 340px;
+}
+.iphone1{
+    float: left;
+    border: 1px rgba(213, 208, 208, 0.866) solid   ;
+    border-radius: 10px;
+    width: 170px;
+    
+    border-width: left;
+    margin: 5px 5px;
+    
+}
+img{
+ margin-left: 10px;
+ margin-top: 10px;
+ width: 150px;
+}
+button{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    margin-top: 2px;
+    color: white;
+    background-color: rgb(37, 123, 244);
+    border: 0cap solid ;    
+    height: 25px;
+    width: 110px;
+}
+i{
+    margin-left: 15px;
+}
+.price{
+    font-weight: bold;
+    color: rgb(12, 188, 12);
+    float: left;
+}
+#heart{
+ size: 15px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    width: 25px;
+    height: 21px;
+    border: 2px rgb(37, 123, 244) solid;
+    color:rgb(37, 123, 244);
+
+}
+.dis{
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+h2 {
+    margin-left: 10px;
+
+    font-size: 15px;
+}
+.orginal_price{
+    color: red;
+    text-decoration: line-through;
+    float: right;
+    margin-right: 90px;
+    font-size: 12px;
+    margin-top: 20px;
+
+}
+
+h1{
+    margin-left: 5px;
+    
+}
+.clear{
+    clear: both;
+}
+#bag{
+    color: rgb(37, 123, 244) ;
+}
+
+.clear2{
+    clear: both;
+}
